@@ -1,3 +1,3 @@
 # StringBuilder
 
-A description of this package.
+This package provides a way for building string with the syntax of @resultBuilder!
